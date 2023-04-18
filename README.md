@@ -1,1 +1,2 @@
 # PT-Puma-Patagonia-Abundance
+All scripts and data required to run two comparative methods for estimating abundance of puma in Torres Del Paine NP in Chile. Method 1: Space-to-Event model (STE) from Moeller et al. 2018 fit via bayesian implementation that varies sample window length and generates multiple data sets by shifting overall study start time by 1 second. Method 2: Partial genotype partial Identity Model (gPSIM) from Augustine et al. 2020, fit via 'nimble'.
